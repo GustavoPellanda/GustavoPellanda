@@ -1,5 +1,3 @@
-# Hello, I'm Gustavo 👋
-
 ## About Me
 
 - 🎓 Pursuing a Bachelor's degree in Information Systems.
