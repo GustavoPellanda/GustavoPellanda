@@ -13,7 +13,7 @@
         <table>
             <tr>
                 <td>🐪 C/C++</td>
-                <td>📡 Node.js</td>
+                <td>🌐 Node.js</td>
                 <td>🐍 Python</td>
                 <td>🐳 Docker</td>
             </tr>
