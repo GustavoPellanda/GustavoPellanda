@@ -10,20 +10,11 @@
 
 I'm most familiar with the following technologies:
 
-- 🐪 C/C++
-- 🤖 Arduino
-- 📜 JavaScript
-- 🧱 HTML/CSS
-- 📡 Node.js
-- 🚀 Express
-- 🍃 MongoDB
-- ⚛️ React
-- 🐍 Python
-- 🌿 Flask
-- 🗄️ MySQL
-- 🐰 RabbitMQ
-- 🔥 Firebase
-- 🐳 Docker
+|                |                  |             |             |
+|----------------|------------------|-------------|-------------|
+| 🐪 C/C++        | 📡 Node.js   | 🐍 Python    | 🐳 Docker   |
+| 🤖 Arduino      | 🚀 Express   | 🌿 Flask     | 🔥 Firebase |
+| 📜 JavaScript   | 🍃 MongoDB   | 🗄️ MySQL     |             |
+| 🧱 HTML/CSS     | ⚛️ React     | 🐰 RabbitMQ  |             |
 
 Happy coding! 👨‍💻🚀
-
