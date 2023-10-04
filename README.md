@@ -1,5 +1,5 @@
 <body>
-    <div class="container">
+    <div>
         <h2>About Me</h2>
         <ul>
             <li>🎓 Pursuing a Bachelor's degree in Information Systems.</li>
@@ -9,7 +9,7 @@
             <li>🎵 Probably listening to Boris Brejcha while I code.</li>
         </ul>
         <h2>My Tech Stack</h2>
-        <p><strong>I'm most familiar with the following technologies:</strong></p>
+        <p>I'm most familiar with the following technologies:</p>
         <table>
             <tr>
                 <td>🐪 C/C++</td>
