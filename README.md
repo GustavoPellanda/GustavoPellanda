@@ -19,19 +19,19 @@
             </tr>
             <tr>
                 <td>🤖 Arduino</td>
-                <td>🚀 Express</td>
+                <td>⚛️ React</td>
                 <td>🌿 Flask</td>
                 <td>🔥 Firebase</td>
             </tr>
             <tr>
                 <td>📜 JavaScript</td>
-                <td>🍃 MongoDB</td>
+                <td>🚀 Express</td>
                 <td>🗄️ MySQL</td>
                 <td></td>
             </tr>
             <tr>
                 <td>🧱 HTML/CSS</td>
-                <td>⚛️ React</td>
+                <td>🍃 MongoDB</td>
                 <td>🐰 RabbitMQ</td>
                 <td></td>
             </tr>
