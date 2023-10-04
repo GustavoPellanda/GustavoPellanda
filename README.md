@@ -9,6 +9,7 @@
             <li>🎵 Probably listening to Boris Brejcha while I code.</li>
         </ul>
         <h2>My Tech Stack</h2>
+        <p><strong>I'm most familiar with the following technologies:</strong></p>
         <table>
             <tr>
                 <td>🐪 C/C++</td>
