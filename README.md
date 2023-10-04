@@ -3,17 +3,27 @@
 - 🎓 Pursuing a Bachelor's degree in Information Systems.
 - 💼 Working in the Research and Development field.
 - 🌟 Aspiring to become a developer.
-- ⌨️ Creating C++ embedded systems and Node.js applications in my spare time.
 - 🌌 Fascinated by projects that involve astronomy and space.
 - 🎵 Probably listening to Boris Brejcha while I code.
 
 ## My Tech Stack
 
-I have the most experience with:
+I'm most familiar with the following technologies:
 
 - 🐪 C/C++
-- 🐦 JavaScript
+- 🤖 Arduino
+- 📜 JavaScript
+- 🧱 HTML/CSS
+- 📡 Node.js
+- 🚀 Express
+- 🍃 MongoDB
+- ⚛️ React
 - 🐍 Python
-- 💾 SQL
+- 🌿 Flask
+- 🗄️ MySQL
+- 🐰 RabbitMQ
+- 🔥 Firebase
+- 🐳 Docker
 
 Happy coding! 👨‍💻🚀
+
