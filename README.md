@@ -12,28 +12,28 @@
         <p>I'm most familiar with the following technologies:</p>
         <table>
             <tr>
-                <td>🐪 C/C++</td>
+                <td>⚙️ C/C++</td>
                 <td>🌐 Node.js</td>
-                <td>🐍 Python</td>
-                <td>🐳 Docker</td>
+                 <td>🐍 Python</td>
+                <td>🗄️ MySQL</td>
             </tr>
             <tr>
                 <td>🤖 Arduino</td>
                 <td>⚛️ React</td>
-                <td>🌿 Flask</td>
-                <td>🔥 Firebase</td>
+                <td>🧪 Flask</td>
+                <td>🐰 RabbitMQ</td> 
             </tr>
             <tr>
                 <td>📜 JavaScript</td>
                 <td>🚀 Express</td>
-                <td>🗄️ MySQL</td>
-                <td></td>
+                 <td>📷 OpenCV</td>
+                <td>🐳 Docker</td>  
             </tr>
             <tr>
                 <td>🧱 HTML/CSS</td>
                 <td>🍃 MongoDB</td>
-                <td>🐰 RabbitMQ</td>
-                <td></td>
+                <td>🐼 Pandas</td>
+                <td>🔥 Firebase</td>  
             </tr>
         </table>
         <p>Happy coding! 👨‍💻🚀</p>
