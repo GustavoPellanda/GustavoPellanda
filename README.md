@@ -2,7 +2,6 @@
 <ul>
     <li>🎓 Pursuing a Bachelor's degree in Information Systems.</li>
     <li>💼 Working in the Research and Development field.</li>
-    <li>🌟 Aspiring to become a developer.</li>
     <li>🎵 Probably listening to Boris Brejcha while I code.</li>
 </ul>
 
