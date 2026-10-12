@@ -8,7 +8,7 @@ I am an Information Systems student at UTFPR in Curitiba, Brazil, and I currentl
 
 **Estudos-CMSIS** is an ongoing collection of small projects exploring features and concepts I often encounter when developing firmware for microcontrollers. Here, I use CMSIS to gain a deeper understanding of how the code I write interacts with the hardware. Since these projects are primarily intended for learning, I write the code without AI tools and include detailed comments
 
-**Candle_Generator** was my first complete web project, developed in 2023 to learn how distributed systems work. It was built with Node.js and is probably outdated by now.
+**Candle_Generator** was my first complete web project, developed in 2023, to learn how distributed systems work. It was built with Node.js - and is probably outdated by now.
 
 Progress on these projects will likely be slow, as I work on them in my free time.
 
