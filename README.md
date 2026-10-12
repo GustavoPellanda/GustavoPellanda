@@ -13,6 +13,4 @@ I am an Information Systems student at UTFPR in Curitiba, Brazil, and I currentl
 Progress on these projects will likely be slow, as I work on them in my free time.
 
 Thanks for stopping by.  
-Happy coding!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopellanda&layout=compact)](https://github.com/gustavopellanda/github-readme-stats)
+Happy coding! 🚀
